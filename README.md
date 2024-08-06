@@ -3,7 +3,7 @@
 > [!TIP]  
 > [Ссылка](https://glushkovandrey.pythonanywhere.com/) для просмотра
 
-<img src="https://github.com/glooshkov/test-task/blob/master/spaceX.png"
+<img src="https://github.com/glooshkov/test-task/blob/main/spaceX.png"
      alt="example" width="100%">
 
 ТЗ:
